@@ -1,30 +1,32 @@
 # News Web App
 The News Web App is a dynamic and user-engaging web application that leverages React.js to provide users with the latest news from various categories. This application is designed to offer an intuitive and responsive user experience.
 
-Features
+# Features
 Category-Based News: Explore the latest news across various categories, such as sports, business, and more, with a user-friendly navigation system.
 
-Infinite Scrolling: Enjoy continuous news browsing with infinite scroll, eliminating the need for pagination and keeping users engaged.
+### Infinite Scrolling: 
+Enjoy continuous news browsing with infinite scroll, eliminating the need for pagination and keeping users engaged.
 
-Loading Bar: A loading bar provides feedback on content loading, enhancing the overall user experience.
+### Loading Bar: 
+A loading bar provides feedback on content loading, enhancing the overall user experience.
 
-Usage
+# Usage
 
-Clone this repository.
+### Clone this repository.
 git clone https://github.com/your-username/news-web-app.git
 
-Navigate to the project directory.
+### Navigate to the project directory.
 cd news-web-app
 
-Install the required dependencies.
+### Install the required dependencies.
 npm install
 
-Start the development server.
+### Start the development server.
 npm start
 
 Open your web browser and visit http://localhost:3000 to access the News Web App.
 
-Technologies Used
+# Technologies Used
 React.js
 React Router
 Infinite Scroll Component
