@@ -27,10 +27,12 @@ npm start
 Open your web browser and visit http://localhost:3000 to access the News Web App.
 
 # Technologies Used
-React.js
-React Router
-Infinite Scroll Component
-React-Top-Loading-Bar
+<ul>
+<li>React.js</li>
+<li>React Router</li>
+<li>Infinite Scroll Component</li>
+<li>React-Top-Loading-Bar</li>
+</ul>
 
 # Getting Started with Create React App
 
