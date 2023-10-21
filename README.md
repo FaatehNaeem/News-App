@@ -1,4 +1,4 @@
-News Web App
+# News Web App
 The News Web App is a dynamic and user-engaging web application that leverages React.js to provide users with the latest news from various categories. This application is designed to offer an intuitive and responsive user experience.
 
 Features
