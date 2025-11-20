@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///D:/News-App/pages/index.js"],"sourcesContent":["// pages/index.js\r\nimport News from './Components/News';\r\n\r\nexport default function Home() {\r\n  const pageSize = 12;\r\n  const apiKey = process.env.NEXT_PUBLIC_NEWS_API; // Note: NEXT_PUBLIC prefix\r\n\r\n  return (\r\n    <News \r\n      apiKey={apiKey} \r\n      pageSize={pageSize} \r\n      country='us' \r\n      category='general' \r\n    />\r\n  );\r\n}\r\n"],"names":[],"mappings":"AAAA,iBAAiB;;;;;;;;;;;;;AAGF,SAAS;IACtB,MAAM,WAAW;IACjB,MAAM,SAAS,QAAQ,GAAG,CAAC,oBAAoB,EAAE,2BAA2B;IAE5E,qBACE,qKAAC;QACC,QAAQ;QACR,UAAU;QACV,SAAQ;QACR,UAAS;;;;;;AAGf","debugId":null}}]
+}

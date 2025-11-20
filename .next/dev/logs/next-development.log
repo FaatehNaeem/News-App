@@ -1,0 +1,838 @@
+[00:00:00.841] Server  LOG      ✓ Ready in 519ms
+[00:00:05.215] Server  WARN    Do not add stylesheets using next/head (see <link rel="stylesheet"> tag with href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"). Use Document instead. 
+See more info here: https://nextjs.org/docs/messages/no-stylesheets-in-head-component
+[00:00:05.215] Server  WARN    Do not add <script> tags using next/head (see <script> tag with src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"). Use next/script instead. 
+See more info here: https://nextjs.org/docs/messages/no-script-tags-in-head-component
+[00:00:06.373] Browser WARN    Do not add stylesheets using next/head (see <link rel="stylesheet"> tag with href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"). Use Document instead. 
+See more info here: https://nextjs.org/docs/messages/no-stylesheets-in-head-component
+[00:00:06.373] Browser WARN    Do not add <script> tags using next/head (see <script> tag with src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"). Use next/script instead. 
+See more info here: https://nextjs.org/docs/messages/no-script-tags-in-head-component
+[00:00:06.373] Browser LOG     Progress: 10
+[00:00:07.423] Browser LOG     Progress: 30
+[00:00:07.423] Browser LOG     Progress: 70
+[00:00:07.423] Browser LOG     Progress: 100
+[00:00:15.033] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.cnbc.com/2025/11/19/target-tgt-q3-2025-earnings.html 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:15.033] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.si.com/college-football/why-miamis-win-over-notre-dame-means-nothing-to-a-cfp-committee-obsessed-with-losses 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:15.033] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.cbsnews.com/philadelphia/news/michelin-star-philadelphia-her-place-friday-saturday-sunday/ 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:15.033] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.cnn.com/2025/11/18/europe/poland-fighter-jets-russia-ukraine-intl-hnk 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:15.033] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s http://www.hollywoodreporter.com/tv/tv-news/dwts-prince-semi-finals-season-34-episode-10-scores-elimination-1236430355/ 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:15.033] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-earnings-google/ 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:15.033] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.aljazeera.com/news/2025/11/19/single-faulty-wire-led-cargo-ship-to-crash-into-baltimore-bridge-report 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:15.033] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://spaceanddefense.io/nasa-to-share-comet-3i-atlas-images-from-spacecraft-telescopes/ 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:15.033] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.politico.com/live-updates/2025/11/18/congress/johnson-thune-epstein-files-gop-00658475 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:15.033] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.espn.com/college-football/story/_/id/47014059/anger-index-week-13-college-football-playoff-ranking-2025 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:15.033] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://collegefootballplayoff.com/news/2025/11/18/cfp-rankings.aspx 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:15.813] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.cnbc.com/2025/11/19/target-tgt-q3-2025-earnings.html 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:15.813] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.si.com/college-football/why-miamis-win-over-notre-dame-means-nothing-to-a-cfp-committee-obsessed-with-losses 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:15.813] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.cbsnews.com/philadelphia/news/michelin-star-philadelphia-her-place-friday-saturday-sunday/ 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:15.813] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.cnn.com/2025/11/18/europe/poland-fighter-jets-russia-ukraine-intl-hnk 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:15.813] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s http://www.hollywoodreporter.com/tv/tv-news/dwts-prince-semi-finals-season-34-episode-10-scores-elimination-1236430355/ 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:15.813] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-earnings-google/ 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:15.814] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.aljazeera.com/news/2025/11/19/single-faulty-wire-led-cargo-ship-to-crash-into-baltimore-bridge-report 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:15.814] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://spaceanddefense.io/nasa-to-share-comet-3i-atlas-images-from-spacecraft-telescopes/ 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:15.814] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.politico.com/live-updates/2025/11/18/congress/johnson-thune-epstein-files-gop-00658475 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:15.814] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.espn.com/college-football/story/_/id/47014059/anger-index-week-13-college-football-playoff-ranking-2025 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:15.814] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://collegefootballplayoff.com/news/2025/11/18/cfp-rankings.aspx 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:16.747] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.cnbc.com/2025/11/19/target-tgt-q3-2025-earnings.html 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:16.747] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.si.com/college-football/why-miamis-win-over-notre-dame-means-nothing-to-a-cfp-committee-obsessed-with-losses 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:16.747] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.cbsnews.com/philadelphia/news/michelin-star-philadelphia-her-place-friday-saturday-sunday/ 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:16.747] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.cnn.com/2025/11/18/europe/poland-fighter-jets-russia-ukraine-intl-hnk 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:16.747] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s http://www.hollywoodreporter.com/tv/tv-news/dwts-prince-semi-finals-season-34-episode-10-scores-elimination-1236430355/ 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:16.747] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-earnings-google/ 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:16.747] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.aljazeera.com/news/2025/11/19/single-faulty-wire-led-cargo-ship-to-crash-into-baltimore-bridge-report 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:16.747] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://spaceanddefense.io/nasa-to-share-comet-3i-atlas-images-from-spacecraft-telescopes/ 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:16.747] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.politico.com/live-updates/2025/11/18/congress/johnson-thune-epstein-files-gop-00658475 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:16.747] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.espn.com/college-football/story/_/id/47014059/anger-index-week-13-college-football-playoff-ranking-2025 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:16.747] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://collegefootballplayoff.com/news/2025/11/18/cfp-rankings.aspx 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:16.886] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.cnbc.com/2025/11/19/target-tgt-q3-2025-earnings.html 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:16.886] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.si.com/college-football/why-miamis-win-over-notre-dame-means-nothing-to-a-cfp-committee-obsessed-with-losses 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:16.886] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.cbsnews.com/philadelphia/news/michelin-star-philadelphia-her-place-friday-saturday-sunday/ 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:16.886] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.cnn.com/2025/11/18/europe/poland-fighter-jets-russia-ukraine-intl-hnk 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:16.886] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s http://www.hollywoodreporter.com/tv/tv-news/dwts-prince-semi-finals-season-34-episode-10-scores-elimination-1236430355/ 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:16.886] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-earnings-google/ 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:16.886] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.aljazeera.com/news/2025/11/19/single-faulty-wire-led-cargo-ship-to-crash-into-baltimore-bridge-report 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:16.886] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://spaceanddefense.io/nasa-to-share-comet-3i-atlas-images-from-spacecraft-telescopes/ 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:16.886] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.politico.com/live-updates/2025/11/18/congress/johnson-thune-epstein-files-gop-00658475 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:16.886] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.espn.com/college-football/story/_/id/47014059/anger-index-week-13-college-football-playoff-ranking-2025 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:16.886] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://collegefootballplayoff.com/news/2025/11/18/cfp-rankings.aspx 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:17.193] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.cnbc.com/2025/11/19/target-tgt-q3-2025-earnings.html 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:17.193] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.si.com/college-football/why-miamis-win-over-notre-dame-means-nothing-to-a-cfp-committee-obsessed-with-losses 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:17.193] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.cbsnews.com/philadelphia/news/michelin-star-philadelphia-her-place-friday-saturday-sunday/ 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:17.193] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.cnn.com/2025/11/18/europe/poland-fighter-jets-russia-ukraine-intl-hnk 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:17.193] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s http://www.hollywoodreporter.com/tv/tv-news/dwts-prince-semi-finals-season-34-episode-10-scores-elimination-1236430355/ 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:17.193] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-earnings-google/ 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:17.193] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.aljazeera.com/news/2025/11/19/single-faulty-wire-led-cargo-ship-to-crash-into-baltimore-bridge-report 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:17.193] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://spaceanddefense.io/nasa-to-share-comet-3i-atlas-images-from-spacecraft-telescopes/ 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:17.193] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.politico.com/live-updates/2025/11/18/congress/johnson-thune-epstein-files-gop-00658475 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:17.193] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://www.espn.com/college-football/story/_/id/47014059/anger-index-week-13-college-football-playoff-ranking-2025 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)
+[00:00:17.193] Browser ERROR   Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s https://collegefootballplayoff.com/news/2025/11/18/cfp-rankings.aspx 
+    at div
+    at div
+    at div
+    at div
+    at InfiniteScroll (http://localhost:3000/_next/static/chunks/node_modules_bd239630._.js:3058:28)
+    at News (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__05381de5._.js:956:322)
+    at Home
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__db7bf4a6._.js:1012:27)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js:6244:27)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1171:27)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:2049:26)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3499:27)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3636:26)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_3ede7da4._.js:3862:27)

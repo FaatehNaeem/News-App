@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 16, "column": 0}, "map": {"version":3,"sources":["file:///D:/News-App/pages/_app.js"],"sourcesContent":["// pages/_app.js\r\nimport './App.css';\r\nimport Navbar from './Components/Navbar';\r\nimport { useState } from 'react';\r\nimport LoadingBar from 'react-top-loading-bar';\r\n\r\nfunction MyApp({ Component, pageProps }) {\r\n  const [progress, setProgress] = useState(0);\r\n\r\n  return (\r\n    <>\r\n      <Navbar />\r\n      <LoadingBar color='#f11946' progress={progress} height={3} />\r\n      <Component {...pageProps} setProgress={setProgress} />\r\n    </>\r\n  );\r\n}\r\n\r\nexport default MyApp;\r\n"],"names":[],"mappings":"AAAA,gBAAgB;;;;;;;;;;;AAGhB;AACA;;;;;;AAEA,SAAS,MAAM,EAAE,SAAS,EAAE,SAAS,EAAE;IACrC,MAAM,CAAC,UAAU,YAAY,GAAG,IAAA,+GAAQ,EAAC;IAEzC,qBACE;;0BACE,qKAAC;;;;;0BACD,qKAAC,gKAAU;gBAAC,OAAM;gBAAU,UAAU;gBAAU,QAAQ;;;;;;0BACxD,qKAAC;gBAAW,GAAG,SAAS;gBAAE,aAAa;;;;;;;;AAG7C;uCAEe","debugId":null}}]
+}
